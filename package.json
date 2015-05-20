@@ -1,0 +1,9 @@
+{
+  "name": "redis-practice",
+  "version": "0.0.0",
+  "dependencies": {
+    "cf-autoconfig": "^0.1.0",
+    "connect": "^3.3.5",
+    "redis": "^0.12.1"
+  }
+}
